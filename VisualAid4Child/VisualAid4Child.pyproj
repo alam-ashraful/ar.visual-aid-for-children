@@ -41,6 +41,7 @@
   <ItemGroup>
     <Content Include="model\frozen_inference_graph.pb" />
     <Content Include="model\ssd_mobilenet_v1_coco_2017_11_17.pbtxt" />
+    <Content Include="requirements.txt" />
     <Content Include="Version required\log.txt" />
     <Content Include="videos\book.MP4" />
     <Content Include="videos\bottle.mp4" />
