@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VisualAid4Child", "VisualAid4Child\VisualAid4Child.pyproj", "{A1C87B14-6E91-4BF5-B2D2-7130EECC69A6}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VA4C", "VisualAid4Child\VA4C.pyproj", "{A1C87B14-6E91-4BF5-B2D2-7130EECC69A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
