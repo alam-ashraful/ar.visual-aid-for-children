@@ -1,6 +1,6 @@
 ffpyplayer==4.1.0
 imutils==0.5.2
-numpy==1.15.4
+numpy==1.22.0
 opencv-python==3.4.5.20
 pip==18.1
 setuptools==40.6.3
