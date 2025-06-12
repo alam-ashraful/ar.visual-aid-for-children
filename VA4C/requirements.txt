@@ -1,7 +1,7 @@
-ffpyplayer==4.1.0
-imutils==0.5.2
-numpy==1.24.4
-opencv-python==4.5.5.64
-pip==18.1
-setuptools==40.6.3
-wheel==0.32.3
+ffpyplayer
+imutils
+numpy
+opencv-python
+pip
+setuptools
+wheel
